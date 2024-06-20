@@ -127,7 +127,8 @@ public class Writemethod {
 
 				workbook.write(fileout);
 				System.out.println("Excel report generated successfully!");
-			
+				System.out.println("Excel report generated successfully!");
+
 			
 //			try (FileOutputStream fileout = new FileOutputStream("/home/tvisha/Documents/Write profile .xlsx")) 
 //			{
